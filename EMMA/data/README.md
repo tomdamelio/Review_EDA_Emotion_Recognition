@@ -1,0 +1,3 @@
+-En RAW se encuentra la Tabla original sin depurar
+-En PROCESSED se encuentra la Propuesta de tabla, para usar en el análisis de datos
+-En CLEANED están los archivos .csv, que corresponden a cada hoja de la Propuesta de tabla (localizada en PROCESSED)

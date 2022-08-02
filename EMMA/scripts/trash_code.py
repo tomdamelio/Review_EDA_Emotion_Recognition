@@ -1,7 +1,7 @@
+#Trozos de código que quedaron sin usar, y pueden mejorarse o servir para ser retomados mas adelante
+
 #Esta funcion toma una serie de columnas de un df y devuelve un df, con la frecuencia de aparicion de cada valor
 #definimos primero los parametros: el dataframe a usar y un diccionario con el nombre de las columnas y los valores a buscar su frecuencia
-
-https://stackoverflow.com/questions/38334296/reversing-one-hot-encoding-in-pandas
 
 def normalizador (df, columnas, nombre):
     list_nombres = []
