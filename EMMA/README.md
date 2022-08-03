@@ -42,3 +42,4 @@ scripts xd
 - Tener en cuenta que en la columna APA_citation hay papers que,a pesar de ser el mismo, se han escrito con pequeñas diferencias que hace que puedan ser interpretados
 - como papers distintos. Tener cuidado a la hora de dropear duplicados.
 - tener en cuenta COMO se interpreto que las bases de datos eran publicas o privadas
+- Lorenzo encontró que hay mas bases de datos por paper, por lo que hay que tenerlo en cuenta a la hora de dropear los duplicados
