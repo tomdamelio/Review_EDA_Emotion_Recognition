@@ -1,9 +1,4 @@
-# Concepto
-Let’s start with the most front-facing file in your repository, the README file. It should contain information that will help your forgetful future self, newcomers, and collaborators figure out why this project exists, how things are organized, conventions used in the project, and where they can go to find more information.
-
-Note here that the why portion is the most important. It gives the necessary context for the reader of your README file. Think of it as documentation that you leave behind, so you don’t have to sit down and explain over and over the high-level overview of the project.
-
-# Analisis de los datos, versión de Emmanuel
+# Analisis de los datos, a cargo de Emmanuel
 La inspiracion para el orden de la carpeta viene de estas fuentes:
 
 - https://gist.github.com/ericmjl/27e50331f24db3e8f957d1fe7bbbe510
@@ -11,12 +6,10 @@ La inspiracion para el orden de la carpeta viene de estas fuentes:
 # Orden carpetas 
 ## data/
 se encuentran las tablas, de mas a menos procesada
-## graficos/
-se almacena aca los graficos obtenidos
 ## notebooks/
 notebooks con el analisis de los datos
 ## scripts/
-scripts xd
+scripts con codigo que no sea necesario incluir en los notebooks
 
 # TO DO LIST
 - [ ] grafico de barra por año para modelos categoriales y dimensionales
@@ -31,10 +24,10 @@ scripts xd
 - [ ] Graficos exploratorios (cuales?)
 
 # Cambios tabla:
-- [ ] borrar ann
+- [x] borrar ann
 - [ ] agregar regression y classifier antes de todos los modelos, y pasar todo a minúscula
 - [ ] pasar todos las medidas de tiempo a segundos
-- [ ] agregar model id
+- [x] agregar model id
 
 # Notas
 - IEEE no es revista, cambiar eso en tabla
@@ -43,3 +36,4 @@ scripts xd
 - como papers distintos. Tener cuidado a la hora de dropear duplicados.
 - tener en cuenta COMO se interpreto que las bases de datos eran publicas o privadas
 - Lorenzo encontró que hay mas bases de datos por paper, por lo que hay que tenerlo en cuenta a la hora de dropear los duplicados
+- Se han introducido cambios en la Tabla Normalizada en el drive, que repercuten directamente en los archivos csv localizados en data/cleaned, pero no en data/processed. Por lo que hay que tener cuidado 
