@@ -1,4 +1,4 @@
-# Analisis de los datos, a cargo de Emmanuel
+# Analisis de los datos (Emmanuel)
 La inspiracion para el orden de la carpeta viene de estas fuentes:
 
 - https://gist.github.com/ericmjl/27e50331f24db3e8f957d1fe7bbbe510
@@ -12,28 +12,34 @@ notebooks con el analisis de los datos
 scripts con codigo que no sea necesario incluir en los notebooks
 
 # TO DO LIST
-- [ ] grafico de barra por año para modelos categoriales y dimensionales
-- [ ] subsetear para quedarnos con modelos dimensionales(columna affective model), subsetear con regressor, donde nos quedamos solo con las dimensiones que sean arousal/valence, quedarse con la medida de perforrmace que mas aparezca (count), hacer el test estadístico correspondiente (t, wettney, etc)
-- [ ] subsetear para quedarnos con modelos dimensionales(columna affective model), quedarse solo con clasificación binarias (LA,HA/LV,HV), quedarse con la medida de performance que mas aparezca (hacer count). hacer el test estadístico correspondiente (t, wettney, etc), que depende del supuesto (si hay normalidad se aplica paramétrico, sino no-parametrico). 
-- [ ] frencuencia de los modelos algortimicos 
+- [x] Gráfico de barra por año (2010-2020) por paper según modelos de emociones empleado (categoriales o dimensionales)
+- [x] Análisis estadístico para determinar si modelos de detección de arousal performan mejor que los basados en valence (Algoritmos de regresión)
+- [x] Análisis estadístico para determinar si modelos de detección de arousal performan mejor que los basados en valence (Algoritmos de clasificación)
+- [x] Gráficos frencuencia de los modelos algoritimicos, según modelos de regresión y clasificación
 - [ ] frencuencia de los tipos de elicitation (por modalidad o tecnica especifica)
-- [ ] grafico de barra por año para tipos de base de datos
-- [ ] frencuencia por base de datos
+- [x] grafico de barra por año para tipos de base de datos
+- [x] frencuencia por base de datos
 - [ ] frecuencia journal, por si es ingeniería o no
 
-- [ ] Graficos exploratorios (cuales?)
+- [ ] Análisis estadístico, teniendo en cuenta lo obtenido en los gráficos 2 y 3
+
+# Graficos extras
+- [x] Frecuencia de papers por tipo de source (conference, journal, pre-print)
+- [ ] Gráfico combinatorio (bases de datos privadas y publicas(tipos de bases de datos publicas usadas))
+- [x] Gráfico de barras papers por país y continente
 
 # Cambios tabla:
 - [x] borrar ann
-- [ ] agregar regression y classifier antes de todos los modelos, y pasar todo a minúscula
-- [ ] pasar todos las medidas de tiempo a segundos
+- [x] agregar regression y classifier antes de todos los modelos
+- [ ] pasar a minuscula nombre de todos los algoritmos
+- [ ] pasar todas las medidas de tiempo a segundos
 - [x] agregar model id
 
-# Notas
-- IEEE no es revista, cambiar eso en tabla
-- Hay datos incompletos en la tabla, rellenarlos
-- Tener en cuenta que en la columna APA_citation hay papers que,a pesar de ser el mismo, se han escrito con pequeñas diferencias que hace que puedan ser interpretados
-- como papers distintos. Tener cuidado a la hora de dropear duplicados.
-- tener en cuenta COMO se interpreto que las bases de datos eran publicas o privadas
-- Lorenzo encontró que hay mas bases de datos por paper, por lo que hay que tenerlo en cuenta a la hora de dropear los duplicados
-- Se han introducido cambios en la Tabla Normalizada en el drive, que repercuten directamente en los archivos csv localizados en data/cleaned, pero no en data/processed. Por lo que hay que tener cuidado 
+# Notas (si se han marcado es que ya se han tenido en cuenta a la hora del analisis)
+- [x] IEEE no es revista, cambiar eso en tabla
+- [ ] Hay datos incompletos en la tabla, rellenarlos
+- [x] Tener en cuenta que en la columna APA_citation hay papers que,a pesar de ser el mismo, se han escrito con pequeñas diferencias que hace que puedan ser interpretados como papers distintos. Tener cuidado a la hora de dropear duplicados.
+- [ ] tener en cuenta COMO se interpreto que las bases de datos eran publicas o privadas
+- [ ] Lorenzo encontró que hay mas bases de datos por paper, por lo que hay que tenerlo en cuenta a la hora del analisis
+- [x] Se han introducido cambios en la Tabla Normalizada en el drive, que repercuten directamente en los archivos csv localizados en data/cleaned, pero no en data/processed. Por lo que hay que tener cuidado
+- [ ] La tabla data base tiene dos papers con datos faltantes (paper_id 7 y 14), hay que rellenar
