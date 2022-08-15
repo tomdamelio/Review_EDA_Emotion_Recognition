@@ -13,7 +13,7 @@ Hay dos notebooks:
         * Mapa donde el tamaño de los paises depende de la cantidad de papers
         
 * **analisis_extra**: análisis de datos que se considera interesante para indagar, pero que no se mencionan en principio en los objetivos/hipotesis
-    *plots incluidos:
+    * plots incluidos:
         * Frecuencia de papers por tipo de source (conference, journal, pre-print)
         * Gráfico de barras papers por país y continente
         * Mapa de papers por país (otra version basada en Tableau se encuentra en figures)
