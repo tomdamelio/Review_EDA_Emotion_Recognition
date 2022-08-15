@@ -1,5 +1,5 @@
 * **Analisis_exploratorio**: 
-1. Cantidad de papers por año (2010-2020) segun tipo de modelo emocional3.1. 
+1. Cantidad de papers por año (2010-2020) segun tipo de modelo emocional
 3.1. Frecuencia de uso de algoritmos de regresion
 3.2. Frecuencia de uso de algoritmos de clasificacion
 3.3. Cantidad de modelos classifier y regressor
