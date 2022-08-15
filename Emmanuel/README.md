@@ -24,7 +24,7 @@ archivos de tableau
 - [x] Gráfico de barra por año (2010-2020) según tipos de base de datos (privada, pública)
 - [x] Gráfico frencuencia de uso de cada base de datos pública encontrada
 - [x] Gráfico frecuencia de papers según revista científica de origen, distinguiendo entre las que poseen orientación en ingeniería de datos y las que no
-- [ ] Box plot comparando performance de modelos de arousal y de valencia 
+- [x] Box plot comparando performance de modelos de arousal y de valencia 
 - [x] Node plot para catgorias emocionales (falta customizar tamaño de las lineas)
 
 # Graficos extras
