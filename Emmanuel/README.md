@@ -56,3 +56,4 @@ archivos de tableau
 - [ ] Cuando se modifiquen los datos de la hoja Data base, tener en cuenta para cambiar los graficos que de ella se hayan desprendido
 - [ ] Revisar que la aplicacion de get_value no se haya hecho en columnas donde en una fila puede haber mas de un dato (no funciona)
 - [ ] Al grafo falta customizarle el tamaño de sus lineas, segun la fuerza de la relacion entre las categorias
+- [x] Todos los graficos y analisis relacionados con el analisis estadisticos de los modelos debe rehacerse (error a la hora de crear el dataframe con las performances)
