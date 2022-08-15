@@ -8,6 +8,8 @@
     * 5 Frecuencia de uso de bases de datos publicas y privadas (2010-2020)
     * 6 Frecuencia de uso de bases de datos publicas
     * 7 Frecuencia de papers provenientes de journals, por revista
+    * 8.1. Comparación performance para modelos de clasificación arousal y valencia, usando UAR 
+    * 8.2. Comparación performance para modelos de clasificación arousal y valencia, usando UAR y MCC
     * 9.1. Frecuencia de uso de categorias emocionales
     * 9.2. Grafo de relaciones entre categorias emocionales
 
