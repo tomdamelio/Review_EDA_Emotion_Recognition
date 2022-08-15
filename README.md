@@ -1,5 +1,5 @@
 # Review_EDA_Emotion_Recognition
-Repositorio del trabajo 'Affective recognition systems using electrodermal activity: a systematic review and meta-analysis'
+Repositorio del trabajo **'Affective recognition systems using electrodermal activity: a systematic review and meta-analysis'**
 
 # Rationale
 Affective computing emerged in the 1990s as a new field that seeks to include emotions in the study of human-computer interaction (HCI). Among its main objectives are the recognition and interpretation of affective states, and how to respond intelligently to them (Picard, 2000). Today affective computing is a consolidated and auspicious research area bringing together various disciplines such as psychology, computer science, neuroscience, engineering, education, among others (Calvo et al., 2015).

@@ -16,25 +16,23 @@ scripts con codigo que no sea necesario incluir en los notebooks
 archivos de tableau
 
 # Gráficos principales
-- [x] Gráfico de barra por año (2010-2020) por paper según modelos de emociones empleado (categoriales o dimensionales)
-- [x] Análisis estadístico para determinar si modelos de detección de arousal performan mejor que los basados en valence (Algoritmos de regresión)
+- [x] Grafico de barra por año (2010-2020) por paper segun modelos de emociones empleados (categoriales o dimensionales)
 - [x] Análisis estadístico para determinar si modelos de detección de arousal performan mejor que los basados en valence (Algoritmos de clasificación)
+- [x] Análisis estadístico, teniendo en cuenta lo obtenido en los gráficos 2 y 3
 - [x] Gráficos frencuencia de los modelos algoritimicos, según modelos de regresión y clasificación
-- [ ] frencuencia de los tipos de elicitation (por modalidad o tecnica especifica)
-- [x] grafico de barra por año para tipos de base de datos
-- [x] frencuencia por base de datos
-- [x] frecuencia journal, por si es ingeniería o no
-- [x] Grafico papers por pais, plot mapa 
-- [ ] Grafico papers por pais, plot mapa, tamaño del pais segun cantidad de papers
-- [ ] grafo de clasificacion (como en Spezialetti 2018)
-- [ ] diferencia entre performances entre modelos: Roy
-
-- [ ] Análisis estadístico, teniendo en cuenta lo obtenido en los gráficos 2 y 3
+- [ ] Gráfico frencuencia de los tipos de elicitation (por modalidad o tecnica especifica)
+- [x] Gráfico de barra por año (2010-2020) según tipos de base de datos (privada, pública)
+- [x] Gráfico frencuencia de uso de cada base de datos pública encontrada
+- [x] Gráfico frecuencia de papers según revista científica de origen, distinguiendo entre las que poseen orientación en ingeniería de datos y las que no
+- [ ] Box plot comparando performance de modelos de arousal y de valencia 
+- [x] Node plot para catgorias emocionales (falta customizar tamaño de las lineas)
 
 # Graficos extras
 - [x] Frecuencia de papers por tipo de source (conference, journal, pre-print)
-- [ ] Gráfico combinatorio (bases de datos privadas y publicas(tipos de bases de datos publicas usadas))
 - [x] Gráfico de barras papers por país y continente
+- [x] Mapa de papers por país (otra version basada en Tableau se encuentra en figures)
+- [x] Grafico base de datos (por publica y privada, y dentro de publica las existente)
+- [x] Análisis estadístico para determinar si modelos de detección de arousal performan mejor que los basados en valence (Algoritmos de regresión) (obsoleto)
 
 # Cambios tabla:
 - [x] borrar ann

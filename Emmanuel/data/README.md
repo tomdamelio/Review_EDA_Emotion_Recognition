@@ -1,3 +1,3 @@
 - En RAW se encuentra la Tabla original sin depurar
 - En PROCESSED se encuentra la Propuesta de tabla, para usar en el análisis de datos
-- En CLEANED están los archivos .csv, que corresponden a cada hoja de la Propuesta de tabla (localizada en PROCESSED)
+- En CLEANED están los archivos .csv, que corresponden a cada hoja de la Propuesta de tabla (localizada en PROCESSED). Además de otros archivos .csv y .xlsx con los que se ha trabajado
