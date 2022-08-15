@@ -10,7 +10,7 @@ Hay dos notebooks:
         * Gráfico frencuencia de uso de cada base de datos pública encontrada
         * Gráfico frecuencia de papers según revista científica de origen, distinguiendo entre las que poseen orientación en ingeniería de datos y las que no
         * Box plot comparando performance de modelos de arousal y de valencia 
-        * Mapa donde el tamaño de los paises depende de la cantidad de papers
+        * Node plot para catgorias emocionales
         
 * **analisis_extra**: análisis de datos que se considera interesante para indagar, pero que no se mencionan en principio en los objetivos/hipotesis
     * plots incluidos:
@@ -18,4 +18,4 @@ Hay dos notebooks:
         * Gráfico de barras papers por país y continente
         * Mapa de papers por país (otra version basada en Tableau se encuentra en figures)
         * Grafico base de datos (por publica y privada, y dentro de publica las existente)
-        * Análisis estadístico para determinar si modelos de detección de arousal performan mejor que los basados en valence (Algoritmos de regresión)
+        * Análisis estadístico para determinar si modelos de detección de arousal performan mejor que los basados en valence (Algoritmos de regresión) (obsoleto)

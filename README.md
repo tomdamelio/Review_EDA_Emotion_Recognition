@@ -1,2 +1,14 @@
 # Review_EDA_Emotion_Recognition
-En este repositorio vamos a subir todos los scripts
+Repositorio del trabajo 'Affective recognition systems using electrodermal activity: a systematic review and meta-analysis'
+
+# Rationale
+Affective computing emerged in the 1990s as a new field that seeks to include emotions in the study of human-computer interaction (HCI). Among its main objectives are the recognition and interpretation of affective states, and how to respond intelligently to them (Picard, 2000). Today affective computing is a consolidated and auspicious research area bringing together various disciplines such as psychology, computer science, neuroscience, engineering, education, among others (Calvo et al., 2015).
+Within affective computing, emotion recognition is presented as one of the most promising subfields not only for its contributions to the understanding of HCI but also for its potential applications in the field of health (el Kaliouby et al., 2006; Grabowski et al., 2019; Luneski et al., 2010; Rice et al., 2015).
+
+While there are various ways to detect affective states, there has been a recent increased interest in the use of physiological signals because they are often more easily obtained and less sensitive to social and cultural variability (Jang et al., 2014). Within these, electrodermal activity (EDA) is a highly sensitive psychophysiological measure that is useful as an indicator of cognitive and emotional processes (Mojica-Lodoño, 2017). Both phasic and tonic EDA features are commonly used for automatic emotion recognition (Kim, et al. 2004). Particularly, EDA features are considered a reliable physiological measure of human arousal (Picard, et al. 2001).
+
+Lately, great efforts have been made to increase information extraction from signal processing tasks, as well as with feature engineering and selection regarding EDA, with the main purpose of maximizing the predictive power of such models (Posada-Quintero & Chon, 2020; Shukla et al., 2019). However, little emphasis has been placed in the literature on understanding the emotional models underlying such affective state recognition systems with EDA and on the inferential value of such statistical learning models. 
+A systematic review and meta-analysis of the literature on emotion recognition from EDA will be conducted. We will mainly investigate the characteristics of the affective model used. Secondarily, the characteristics of the EDA measurements and the statistical learning models used for the automatic recognition task will be explored.
+It is expected to analyze common characteristics in the state of the art, and based on this to make future recommendations in the field.
+
+* Pre registro disponible en: https://osf.io/ewuaf
