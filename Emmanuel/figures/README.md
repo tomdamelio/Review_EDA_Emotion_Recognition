@@ -1,14 +1,14 @@
 * **Analisis_exploratorio**: 
-1. Cantidad de papers por año (2010-2020) segun tipo de modelo emocional
-3.1. Frecuencia de uso de algoritmos de regresion
-3.2. Frecuencia de uso de algoritmos de clasificacion
-3.3. Cantidad de modelos classifier y regressor
-3.4. Cantidad de modelos classifier y regressor(pie plot)
-5. Frecuencia de uso de bases de datos publicas y privadas (2010-2020)
-6. Frecuencia de uso de bases de datos publicas
-7. Frecuencia de papers provenientes de journals, por revista
-9.1. Frecuencia de uso de categorias emocionales
-9.2. Grafo de relaciones entre categorias emocionales
+    * 1. Cantidad de papers por año (2010-2020) segun tipo de modelo emocional
+    * 3.1. Frecuencia de uso de algoritmos de regresion
+    * 3.2. Frecuencia de uso de algoritmos de clasificacion
+    * 3.3. Cantidad de modelos classifier y regressor
+    * 3.4. Cantidad de modelos classifier y regressor(pie plot)
+    * 5. Frecuencia de uso de bases de datos publicas y privadas (2010-2020)
+    * 6. Frecuencia de uso de bases de datos publicas
+    * 7. Frecuencia de papers provenientes de journals, por revista
+    * 9.1. Frecuencia de uso de categorias emocionales
+    * 9.2. Grafo de relaciones entre categorias emocionales
 
 * **Analisis_extra**: 
     * a.1. Frecuencia de papers por tipo de fuente (conference, journal, pre-print) (bar plot)
