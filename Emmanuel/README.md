@@ -58,4 +58,6 @@ archivos de tableau
 - [ ] Al grafo falta customizarle el tamaño de sus lineas, segun la fuerza de la relacion entre las categorias
 - [x] Todos los graficos y analisis relacionados con el analisis estadisticos de los modelos debe rehacerse (error a la hora de crear el dataframe con las performances)
 - [ ] Node plot: chequear de rehacerlo pero dropeando duplicados
-
+- [ ] posibles soluciones para model interpretation
+- [ ] analisis estadistico: se probó hacer "intrasujeto"? i.e. intrapaper
+- [ ] actualizar mapa papers por continente, segun recomendaciones de Tomi
