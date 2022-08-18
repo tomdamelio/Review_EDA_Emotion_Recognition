@@ -11,6 +11,7 @@
     * 8.1. Comparación performance para modelos de clasificación arousal y valencia, usando accuracy
     * 9.1. Frecuencia de uso de categorias emocionales
     * 9.2. Grafo de relaciones entre categorias emocionales
+    * Gráficos de EDA...
 
 * **Analisis_extra**: 
     * a.1. Frecuencia de papers por tipo de fuente (conference, journal, pre-print) (bar plot)

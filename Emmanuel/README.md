@@ -15,33 +15,31 @@ scripts con codigo que no sea necesario incluir en los notebooks
 ## tableau/
 archivos de tableau
 
-# Gráficos principales
-- [x] Grafico de barra por año (2010-2020) por paper segun modelos de emociones empleados (categoriales o dimensionales)
-- [x] Análisis estadístico para determinar si modelos de detección de arousal performan mejor que los basados en valence (Algoritmos de clasificación)
-- [x] Análisis estadístico, teniendo en cuenta lo obtenido en los gráficos 2 y 3
-- [x] Gráficos frencuencia de los modelos algoritimicos, según modelos de regresión y clasificación
+# TO DO LIST
+## Gráficos
 - [ ] Gráfico frencuencia de los tipos de elicitation (por modalidad o tecnica especifica)
-- [x] Gráfico de barra por año (2010-2020) según tipos de base de datos (privada, pública)
-- [x] Gráfico frencuencia de uso de cada base de datos pública encontrada
-- [x] Gráfico frecuencia de papers según revista científica de origen, distinguiendo entre las que poseen orientación en ingeniería de datos y las que no
-- [x] Box plot comparando performance de modelos de arousal y de valencia 
-- [x] Node plot para catgorias emocionales (falta customizar tamaño de las lineas)
+- [ ] Mejorar mapa papers por pais
+- [ ] Node plot para catgorias emocionales (falta customizar tamaño de las lineas)
+- [ ] graficos para hojas: techniques:
+    * frecuencia por modalidad
+    * frecuencia por technique_name
+    * task activo or passive
+    * por modalidad visual (pictures, videos, words, other)
+    * por modalidad auditiva (musica otro)
+    * elicitation time
+    * multiple techniques?
+    * frecuencia desde driving a puzzle
+## Notas
+- [ ] Hay datos incompletos en la tabla, rellenarlos
+- [ ] Lorenzo encontró que hay mas bases de datos por paper, por lo que hay que tenerlo en cuenta a la hora del analisis (paper id 37(DEAPx1, AMIGOSx1, MAHNOBx1, DECAFx1, Driving Workloadx1), 62(DEAPx2,MAHNOBx1))
+- [ ] La tabla data base tiene dos papers con datos faltantes (paper_id 7 y 14), hay que rellenar
+- [ ] Node plot: chequear de rehacerlo pero dropeando duplicados
+- [ ] posibles soluciones para model interpretation
+- [ ] analisis estadistico: se probó hacer "intrasujeto"? i.e. intrapaper
+- [ ] actualizar mapa papers por continente, segun recomendaciones de Tomi
+- [ ] ensayar interpretaciones
 
-# Graficos extras
-- [x] Frecuencia de papers por tipo de source (conference, journal, pre-print)
-- [x] Gráfico de barras papers por país y continente
-- [x] Mapa de papers por país (otra version basada en Tableau se encuentra en figures)
-- [x] Grafico base de datos (por publica y privada, y dentro de publica las existente)
-- [x] Análisis estadístico para determinar si modelos de detección de arousal performan mejor que los basados en valence (Algoritmos de regresión) (obsoleto)
-
-# Cambios tabla:
-- [x] borrar ann
-- [x] agregar regression y classifier antes de todos los modelos
-- [x] pasar a minuscula nombre de todos los algoritmos (innecesario, hasta estilizar los graficos)
-- [x] pasar todas las medidas de tiempo a segundos (innecesario, hasta realizar un grafico al respecto)
-- [x] agregar model id
-
-# Notas (si se han marcado es que ya se han tenido en cuenta a la hora del analisis)
+# Anotaciones (si se han marcado es que ya se han tenido en cuenta a la hora del analisis)
 - [x] IEEE no es revista, cambiar eso en tabla
 - [ ] Hay datos incompletos en la tabla, rellenarlos
 - [x] Tener en cuenta que en la columna APA_citation hay papers que,a pesar de ser el mismo, se han escrito con pequeñas diferencias que hace que puedan ser interpretados como papers distintos. Tener cuidado a la hora de dropear duplicados.
@@ -61,3 +59,4 @@ archivos de tableau
 - [ ] posibles soluciones para model interpretation
 - [ ] analisis estadistico: se probó hacer "intrasujeto"? i.e. intrapaper
 - [ ] actualizar mapa papers por continente, segun recomendaciones de Tomi
+- [ ] ed hoja EDA: hay veces donde se han marcado el uso de electrodos en los dedos, pero no tambien la casilla is_hands. Corresponderia hacerlo (o no?)

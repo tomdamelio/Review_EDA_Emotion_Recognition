@@ -12,7 +12,8 @@ Hay dos notebooks:
         * Box plot comparando performance de modelos de arousal y de valencia, con accuracy
         * Frecuencia uso categorias emocionales
         * Node plot para catgorias emocionales
-        
+        * Gráficos de EDA...
+
 * **analisis_extra**: análisis de datos que se considera interesante para indagar, pero que no se mencionan en principio en los objetivos/hipotesis, además de otros análisis que hayan quedado obsoletos o desechados momentaneamente
     * plots incluidos:
         * Frecuencia de papers por tipo de source (conference, journal, pre-print)
