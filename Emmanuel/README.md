@@ -17,7 +17,6 @@ archivos de tableau
 
 # TO DO LIST
 ## Gráficos
-- [ ] Gráfico frencuencia de los tipos de elicitation (por modalidad o tecnica especifica)
 - [ ] Mejorar mapa papers por pais
 - [ ] Node plot para catgorias emocionales (falta customizar tamaño de las lineas)
 - [ ] graficos para hojas: techniques:
@@ -60,3 +59,9 @@ archivos de tableau
 - [ ] analisis estadistico: se probó hacer "intrasujeto"? i.e. intrapaper
 - [ ] actualizar mapa papers por continente, segun recomendaciones de Tomi
 - [ ] ed hoja EDA: hay veces donde se han marcado el uso de electrodos en los dedos, pero no tambien la casilla is_hands. Corresponderia hacerlo (o no?)
+- [x] link one hot encoding: https://stackoverflow.com/questions/38334296/reversing-one-hot-encoding-in-pandas
+- [ ] paper id 22 tiene mal pasada las performances de accuracy
+- [ ] paper id 46 y 48 59 no tiene medidas de performance
+
+
+
