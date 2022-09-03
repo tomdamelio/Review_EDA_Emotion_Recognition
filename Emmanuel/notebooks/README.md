@@ -9,10 +9,11 @@ Hay dos notebooks:
         * Gráfico de barra por año (2010-2020) según tipos de base de datos (privada, pública)
         * Gráfico frencuencia de uso de cada base de datos pública encontrada
         * Gráfico frecuencia de papers según revista científica de origen, distinguiendo entre las que poseen orientación en ingeniería de datos y las que no
-        * Box plot comparando performance de modelos de arousal y de valencia, con UAR
-        * Box plot comparando performance de modelos de arousal y de valencia, con UAR Y MCC
+        * Box plot comparando performance de modelos de arousal y de valencia, con accuracy
+        * Frecuencia uso categorias emocionales
         * Node plot para catgorias emocionales
-        
+        * Gráficos de EDA...
+
 * **analisis_extra**: análisis de datos que se considera interesante para indagar, pero que no se mencionan en principio en los objetivos/hipotesis, además de otros análisis que hayan quedado obsoletos o desechados momentaneamente
     * plots incluidos:
         * Frecuencia de papers por tipo de source (conference, journal, pre-print)
