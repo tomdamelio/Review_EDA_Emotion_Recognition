@@ -1,20 +1,10 @@
-importar librerias
-estandarizar, crear un entorno
-creacion df
-estandarizar caracteristcias de los plots
-funciones
-
-creacion plots
-guardar plot
-
-
-
 # TAREAS
 - [ ] hay que rehacer analisis estadistico
 - [ ] plots que quedan
     - [ ] 1. Hacer un plots para ver como cambia la performance promedio (accuracy) en general con el paso del tiempo.  Esto lo resolveria con un box plot por año de accuracy. Donde en el eje X este de 2010 a 2020, y en el eje Y este el accuracy. Con este plot podriamos analizar si efectivamente mejora la performance de los modelos predictivos con el paso del tiempo
     - [ ] 1.bis. subsjetear esta progresion de accuracies pero por dimension afectiva: hacer un plot (conjunto de boxplots de 2010 a 2020) de valencia y otro plot (conjunto de boxplots de 2010 a 2020) de arousal. Este plot nos ayudaría a ver si cambia la progresion de accuracies dependiendo cada dimension afectiva
     - [ ] 2. Hacer un plot de la progresión de modelos de regresión vs clasificación de 2010 a 2020. Este plot deberia ser igual al plot que ve la progresion de modelos dimensioanles vs categoriales. La idea con este plot seria analizar sin la progresion de papers basados en modelos dimensioanels se acompaña con modelso estadísticos de regresion (que es lo que se esperaria dado el tipo de variable, pero asumimos que no sucede)
+    
 - [ ] Juntar los analisis de datos en un unico script y estandarizar el codigo
 - [ ] Luego de correr analis de datos con tabla final → tener un reporte de resultados para discutir`
 
