@@ -1,3 +1,5 @@
+OBSOLETO (02.02)
+
 * **Analisis_exploratorio**: 
 
     * 1 Cantidad de papers por año (2010-2020) segun tipo de modelo emocional

@@ -1,3 +1,5 @@
+DEPRECATED (02.02.2023)
+
 Hay dos notebooks:
 
 * **analisis_exploratorio**: primer paso en el análisis de los datos, según los objetivos principales/hipotesis planteados
