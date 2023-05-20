@@ -25,8 +25,7 @@ preferred-citation:
     orcid: "https://orcid.org/0009-0004-9170-2127 "
   - family-names: "D'Amelio"
     given-names: "Tomás Ariel"
-  doi: "10.0000/00000"
+  url: "https://github.com/tomdamelio/Review_EDA_Emotion_Recognition.git" 
   journal: "GitHub Repository"
   title: "Affective recognition systems with electrodermal activity/: a systematic review and meta-analysis."
-  url: "https://github.com/tomdamelio/Review_EDA_Emotion_Recognition.git" 
   year: 2023
