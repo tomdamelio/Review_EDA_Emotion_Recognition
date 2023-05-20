@@ -1,8 +1,32 @@
-type: dataset
-@article{GitHub Repository,
-  author = {Galán, L. A., Barquinero, A. D., Maldonado, E. A., & D'Amelio, T. A.},
-  doi = {10.17605/OSF.IO/ZBQM6},
-  journal = {GitHub Repositorz},
-  title = {{Affective recognition systems with electrodermal activity, a systematic review and meta-analysis.}},
-  year = {2023}
-}
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+authors:
+- family-names: "Galán"
+  given-names: "Lorenzo Ariel"
+- family-names: "Díaz Barquinero"
+  given-names: "Agustín Ariel"
+- family-names: "Maldonado"
+  given-names: "Emmanuel Alesandro"  
+  orcid: "https://orcid.org/0009-0004-9170-2127 "
+- family-names: "D'Amelio"
+  given-names: "Tomás Ariel"
+title: "Affective recognition systems with electrodermal activity/: a systematic review and meta-analysis."
+date-released: 2023-05-23
+url: "https://github.com/tomdamelio/Review_EDA_Emotion_Recognition.git"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Galán"
+    given-names: "Lorenzo Ariel"
+  - family-names: "Díaz Barquinero"
+    given-names: "Agustín Ariel"
+  - family-names: "Maldonado"
+    given-names: "Emmanuel Alesandro"  
+    orcid: "https://orcid.org/0009-0004-9170-2127 "
+  - family-names: "D'Amelio"
+    given-names: "Tomás Ariel"
+  doi: "10.0000/00000"
+  journal: "GitHub Repository"
+  title: "Affective recognition systems with electrodermal activity/: a systematic review and meta-analysis."
+  url: "https://github.com/tomdamelio/Review_EDA_Emotion_Recognition.git" 
+  year: 2023
