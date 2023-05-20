@@ -1,4 +1,5 @@
-@misc{GitHub Repository,
+type: dataset
+@article{GitHub Repository,
   author = {Galán, L. A., Barquinero, A. D., Maldonado, E. A., & D'Amelio, T. A.},
   doi = {10.17605/OSF.IO/ZBQM6},
   journal = {GitHub Repositorz},
